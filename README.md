@@ -11,4 +11,5 @@ A template to create a new repository TravisCI-enabled.
 - clone the repo: `git clone https://github.com/Puzzlout/TemplateRepository.git`
 - navigate to the repo: `cd TemplateRepository`
 - install the composer packages: `composer install`
-- right-click on the file InitTestSuite.php in C9 IDE and select "Run". Your test suite will be updated.
+- right-click on the file InitTestSuite.php in C9 IDE and select "Run". 
+- open the link displayed in the bottom dialog window: "Starting Apache httpd, serving https://yourvmurl.c9users.io/TemplateRepository/InitTestSuite.php". Your test suite will be updated.
