@@ -5,7 +5,7 @@ A template to create a new repository TravisCI-enabled.
 - [Cloud 9 account](https://c9.io)
 - [Composer](https://getcomposer.org/)
 - PHP 5
-- 
+
 # Installation
 - log in to https://c9.io
 - clone the repo: `git clone https://github.com/Puzzlout/TemplateRepository.git`
